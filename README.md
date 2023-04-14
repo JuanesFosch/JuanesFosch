@@ -3,7 +3,7 @@
 #### Actualmente tengo tres proyectos de práctica: 
   - Web scraping con Selenium y Pandas [(App_BCRA)](https://github.com/JuanesFosch/App-Plazo-Fijo)
   - Sistema de gestión en dos versiones: una con Django y otra con PySimpleGUI + MySql. [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
-  - GUI de consulta web con PySimpleGui. [(App_DACC)] (https://github.com/JuanesFosch/App-DACC)
+  - GUI de consulta web con PySimpleGui. [(App_DACC)](https://github.com/JuanesFosch/App-DACC)
 
 <!--
 **JuanesFosch/JuanesFosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
