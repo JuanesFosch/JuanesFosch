@@ -1,4 +1,6 @@
-### Hi there 👋
+### Estudiando Python principalmente con la plataforma @RealPython.org y con el libro Crash Course, en paralelo haciendo el curso de Back-End con Python de Platzi.
+
+### Actualmente tengo tres proyectos de práctica: uno de web scraping con Selenium y Pandas, otro de sistema de gestión en dos versiones: una con Django y otra con PySimpleGUI y MySql. El tercero es una GUI con PySimpleGui.
 
 <!--
 **JuanesFosch/JuanesFosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
