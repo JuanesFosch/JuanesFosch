@@ -1,3 +1,4 @@
+> *Español*
 ### Estudiando Python principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de Back-End con Python de Platzi.
 
 #### Actualmente tengo tres proyectos de práctica: 
@@ -9,6 +10,8 @@
 
 #### Además, tengo 2 años de experiencia como consultor en Business Intelligence, por lo que tengo conocimientos en análisis de datos con Power BI y SQL. 
 
+
+> *English*
 ### Studying Python mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi.
 
 #### Currently I have three practice projects:
@@ -16,7 +19,7 @@
   - Management system in two versiones: one with Django and another with PySimpleGUI + MySql. [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
   - Web query GUI with PySimpleGui. [(App_DACC)](https://github.com/JuanesFosch/App-DACC)
 
-#### I have previous knowledge un Python, I did a diploma on Business Analytics where I learned the bases of data analysis, using Pandas, Numpy and Matplotlib libraries. 
+#### I have previous knowledge in Python, I did a diploma on Business Analytics where I learned the bases of data analysis, using Pandas, Numpy and Matplotlib libraries. 
 
 #### Also, I have 2 years experience as a Business Intelligence consultant, so I have knowledge in data analysis with Power BI and SQL. 
 
