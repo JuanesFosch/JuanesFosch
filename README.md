@@ -5,12 +5,20 @@
   - Sistema de gestión en dos versiones: una con Django y otra con PySimpleGUI + MySql. [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
   - GUI de consulta web con PySimpleGui. [(App_DACC)](https://github.com/JuanesFosch/App-DACC)
 
+#### Tengo conocimientos previos en Python, hice una diplomatura en Business Analytics donde aprendí las bases del análisis de datos, usando librerías como Pandas, Numpy y Matplotlib.
+
+#### Además, tengo 2 años de experiencia como consultor en Business Intelligence, por lo que tengo conocimientos en análisis de datos con Power BI y SQL. 
+
 ### Studying Python mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi.
 
 #### Currently I have three practice projects:
   - Web scraping with Selenium and Pandas [(App_BCRA)](https://github.com/JuanesFosch/App-Plazo-Fijo)
   - Management system in two versiones: one with Django and another with PySimpleGUI + MySql. [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
   - Web query GUI with PySimpleGui. [(App_DACC)](https://github.com/JuanesFosch/App-DACC)
+
+#### I have previous knowledge un Python, I did a diploma on Business Analytics where I learned the bases of data analysis, using Pandas, Numpy and Matplotlib libraries. 
+
+#### Also, I have 2 years experience as a Business Intelligence consultant, so I have knowledge in data analysis with Power BI and SQL. 
 
 <!--
 **JuanesFosch/JuanesFosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
