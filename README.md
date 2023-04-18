@@ -2,6 +2,7 @@
 
 > *Español*
 
+## Hola! Soy Juan. Estoy formándome como Desarrollador Back-End 
 ### Estudiando Python principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de Back-End con Python de Platzi.
 
 #### Actualmente tengo tres proyectos de práctica: 
@@ -14,9 +15,10 @@
 #### Además, tengo 2 años de experiencia como consultor en Business Intelligence, por lo que tengo conocimientos en análisis de datos con Power BI y SQL. 
 
 
-
-
 > *English*
+
+## Hi! I'm Juan. I am training as a Back-End developer
+
 ### Studying Python mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi.
 
 #### Currently I have three practice projects:
