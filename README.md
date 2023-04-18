@@ -13,9 +13,6 @@
 
 
 
-
-
-
 > *English*
 ### Studying Python mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi.
 
