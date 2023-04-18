@@ -1,4 +1,7 @@
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>  <img src="file:///C:/Users/juanf/Downloads/microsoft-sql-server-logo-svgrepo-com.svg" alt="sqlserver" width="40" height="40"/> <img src="https://github.com/file-icons/DevOpicons/blob/master/svg/mysql.svg" alt="mysql" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"</a> </p>
+
 > *Español*
+
 ### Estudiando Python principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de Back-End con Python de Platzi.
 
 #### Actualmente tengo tres proyectos de práctica: 
