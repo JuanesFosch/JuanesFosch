@@ -8,7 +8,7 @@
 ### Actualmente estoy trabajando con cuatro proyectos de práctica:
   #### El siguiente está listo -->  [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
   
-  #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, con HTML, CSS y desplegada en [Fly.io](https://fly.io/)
+  #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, CSS y desplegada en [Fly.io](https://fly.io/)
   
   Estos siguen en proceso:
   - Web scraping con Python, usando Selenium y Pandas [(App_BCRA)](https://github.com/JuanesFosch/App-Plazo-Fijo)
@@ -30,7 +30,7 @@
 ### Currently I´m working on four practice projects:
   #### Next one's ready -->  [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
   
-  #### - Management system (CRUD) Web version: Made with Python on Django, with HTML, CSS and deployed at [Fly.io](https://fly.io/)
+  #### - Management system (CRUD) Web version: Made with Python on Django, CSS and deployed at [Fly.io](https://fly.io/)
   
   These are still in process:
   - Web scraping with Selenium and Pandas [(App_BCRA)](https://github.com/JuanesFosch/App-Plazo-Fijo)
