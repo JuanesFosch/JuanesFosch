@@ -11,7 +11,7 @@
   #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, con HTML, CSS y desplegada en [Fly.io](https://fly.io/)
   
   Estos siguen en proceso:
-  - Sistema de gestión (CRUD) en versión Escritorio: Hecha con PySimpleGUI + MySql. [(App_Odonto)](https://github.com/JuanesFosch/App-Odonto)
+  - Sistema de gestión (CRUD) en versión Escritorio: Hecha con PySimpleGUI + MySql. [(App_Odonto_Desktop)](https://github.com/JuanesFosch/App-Odonto/tree/App-Lolo-Pruebas-y-modificaciones/desktop_Odonto)
   - Web scraping con Python, usando Selenium y Pandas [(App_BCRA)](https://github.com/JuanesFosch/App-Plazo-Fijo)
   - GUI de consulta web con Python, usando PySimpleGui. [(App_DACC)](https://github.com/JuanesFosch/App-DACC)
 
