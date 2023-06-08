@@ -13,7 +13,7 @@
   Estos siguen en proceso:
   - Web scraping con Python, usando Selenium y Pandas [(App_BCRA)](https://github.com/JuanesFosch/App-Plazo-Fijo)
   - GUI de consulta web con Python, usando PySimpleGui. [(App_DACC)](https://github.com/JuanesFosch/App-DACC)
-  - Sistema de gestión (CRUD) en versión Escritorio: Hecha con PySimpleGUI + MySql. [(App_Odonto_Desktop)](https://github.com/JuanesFosch/App-Odonto/tree/App-Lolo-Pruebas- y-modificaciones/desktop_Odonto)
+  - Sistema de gestión (CRUD) en versión Escritorio: Hecha con PySimpleGUI + MySql. [(App_Odonto_Desktop)](https://github.com/JuanesFosch/App-Odonto/tree/App-Lolo-Pruebas-y-modificaciones/desktop_Odonto)
   
 
 #### Tengo conocimientos previos en Python, hice una diplomatura en Business Analytics donde aprendí las bases del análisis de datos, usando librerías como Pandas, Numpy y Matplotlib.
