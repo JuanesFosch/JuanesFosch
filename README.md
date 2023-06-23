@@ -10,7 +10,7 @@
   
   #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, CSS y desplegada en [Fly.io](https://fly.io/)
 
-  #### Este también está listo --> [App_Películas](https://proyecto-peliculas.fly.dev/)
+  #### Este también está listo --> [App_Películas]([https://proyecto-peliculas.fly.dev/](https://github.com/JuanesFosch/App-Peliculas))
 
   #### - Aplicación de consultas a una API: Hecha con Python en Django, CSS y desplegada en [Fly.io](https://fly.io/)
   
@@ -36,7 +36,7 @@
   
   #### - Management system (CRUD) Web version: Made with Python on Django, CSS and deployed at [Fly.io](https://fly.io/)
 
-  #### This one's ready too --> [App_Películas](https://proyecto-peliculas.fly.dev/)
+  #### This one's ready too --> [App_Películas]([https://proyecto-peliculas.fly.dev/](https://github.com/JuanesFosch/App-Peliculas))
 
   #### - API queries application: Made with Python in Django, CSS and deployed in [Fly.io](https://fly.io/)
   
