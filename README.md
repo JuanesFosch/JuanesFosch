@@ -5,7 +5,7 @@
 ## Hola! Soy Juan. Estoy formándome como Desarrollador Back-End 
 ### Estudiando Python principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de Back-End con Python de Platzi.
 
-### Actualmente estoy trabajando con cuatro proyectos de práctica:
+### Actualmente estoy trabajando con varios proyectos de práctica:
   #### El siguiente está listo -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
   
   #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, CSS y desplegada en [Fly.io](https://fly.io/)
@@ -31,7 +31,7 @@
 
 ### Studying Python mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi.
 
-### Currently I´m working on four practice projects:
+### Currently I´m working on many practice projects:
   #### Next one's ready -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
   
   #### - Management system (CRUD) Web version: Made with Python on Django, CSS and deployed at [Fly.io](https://fly.io/)
