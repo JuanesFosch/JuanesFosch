@@ -3,7 +3,7 @@
 > *Español*
 
 ## Hola! Soy Juan. Estoy formándome como Desarrollador Full-Stack 
-### Ahora estoy enfocado en el Back-End, estudiando Python y Django principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de Back-End con Python de Platzi. Estoy aprendiendo habilidades para el Front-End desde la práctica en mis proyectos, con HTML y CSS.
+### Ahora estoy enfocado en el Back-End, estudiando Python y Django principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de Back-End con Python de Platzi. Estoy aprendiendo habilidades para el Front-End desde la práctica en mis proyectos, con HTML, CSS y BootStrap.
 
 ### Actualmente estoy trabajando con varios proyectos de práctica:
   #### El siguiente está listo -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
@@ -28,7 +28,7 @@
 
 ## Hi! I'm Juan. I am training as a Back-End developer
 
-### Now I'm focused on the Back-End, studying Python and Django mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi. I'm learning Front-End skills by practicing on my projects, with HTML and CSS.
+### Now I'm focused on the Back-End, studying Python and Django mainly with the [RealPython.org](https://realpython.com/) platform and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the Back-End with Python course from Platzi. I'm learning Front-End skills by practicing on my projects, with HTML, CSS and BootStrap.
 
 ### Currently I´m working on many practice projects:
   #### Next one's ready -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
