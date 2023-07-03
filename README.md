@@ -29,8 +29,8 @@
 
 ## Hi! I'm Juan. I am training as a Back-End developer
 
-### I am now taking the [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) course from Harvard provided by [edX](https://learning.edx.org/course/ course-v1:HarvardX+CS50W+Web/home), where tools such as JavaScript, HTML, CSS, Git, Python, Django and other web development concepts are taught.
-### Before I was focused on the Back-End, studying Python and Django mainly with the platform [RealPython.org](https://realpython.com/) and with the book [Crash Course](https://ehmatthes.github.io /pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the [Back-End with Python](https://platzi.com/ruta/web-python) course /) de Platzi. I learned Front-End skills by practicing on my projects, with HTML, CSS and BootStrap.
+### I am now taking the [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) course from Harvard provided by [edX](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home), where tools such as JavaScript, HTML, CSS, Git, Python, Django and other web development concepts are taught.
+### Before I was focused on the Back-End, studying Python and Django mainly with the platform [RealPython.org](https://realpython.com/) and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the [Back-End with Python](https://platzi.com/ruta/web-python) course /) de Platzi. I learned Front-End skills by practicing on my projects, with HTML, CSS and BootStrap.
 
 ### Currently I´m working on many practice projects:
   #### Next one's ready -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
