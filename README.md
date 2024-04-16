@@ -2,10 +2,22 @@
 
 > *Español*
 
-## Hola! Soy Juan. Estoy formándome como Desarrollador Full-Stack
-### Ahora estoy haciendo el curso [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) de Harvard provisto por [edX](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home), donde se enseñan herramientas como JavaScript, HTML, CSS, Git, Python, Django y otros conceptos del desarrollo web.
-### Antes estuve enfocado en el Back-End, estudiando Python y Django principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de [Back-End con Python](https://platzi.com/ruta/web-python/) de Platzi. Aprendí habilidades para el Front-End desde la práctica en mis proyectos, con HTML, CSS y BootStrap.
-
+## Hola! Soy Juan. Soy Desarrollador Web Full-Stack
+### Me estoy formando como desarrollador hace un año y medio.
+### Recientemente terminé el curso de Programación Web Full-Stack de [Digital House](https://www.digitalhouse.com/ar/productos/programacion/programacion-web-full-stack) y estoy próximo a completar el curso [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) de Harvard provisto por [edX](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home).
+### Antes estuve estudiando por mi cuenta, enfocando en Python y Django principalmente con la plataforma [RealPython.org](https://realpython.com/) y con el libro [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) de [Eric Matthes](https://twitter.com/ehmatthes), en paralelo haciendo el curso de [Back-End con Python](https://platzi.com/ruta/web-python/) de Platzi.
+### En este proceso aprendí a utilizar diferentes tecnologías para el desarrollo web, tanto de Back-End como Front-End, incluyendo:
+ #### - Python
+ #### - JavaScript
+ #### - Django
+ #### - SQL
+ #### - HTML
+ #### - CSS
+ #### - Node.JS
+ #### - Express
+ #### - React
+ #### - Git
+ 
 ### Actualmente estoy trabajando con varios proyectos de práctica:
   #### El siguiente está listo -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
   
@@ -27,10 +39,21 @@
 
 > *English*
 
-## Hi! I'm Juan. I am training as a Back-End developer
-
-### I am now taking the [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) course from Harvard provided by [edX](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home), where tools such as JavaScript, HTML, CSS, Git, Python, Django and other web development concepts are taught.
-### Before I was focused on the Back-End, studying Python and Django mainly with the platform [RealPython.org](https://realpython.com/) and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the [Back-End with Python](https://platzi.com/ruta/web-python) course /) de Platzi. I learned Front-End skills by practicing on my projects, with HTML, CSS and BootStrap.
+## Hi! I'm Juan. I am a Full-Stack Web Developer
+### I have been studying to be a developer for a year and a half.
+### I recently finished the [Digital House](https://www.digitalhouse.com/ar/productos/programacion/programacion-web-full-stack) Full-Stack Web Programming course and I am close to completing the [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/) course from Harvard provided by [edX](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home).
+### Before I was studying on my own, focusing on Python and Django mainly with the platform [RealPython.org](https://realpython.com/) and with the book [Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by [Eric Matthes](https://twitter.com/ehmatthes), in parallel doing the [Back-End with Python](https://platzi.com/ruta/web-python) course /) de Platzi.
+### In this process I learned to use different technologies for web development, for both Back-End and Front-End, including:
+ #### - Python
+ #### - JavaScript
+ #### - Django
+ #### - SQL
+ #### - HTML
+ #### - CSS
+ #### - Node.JS
+ #### - Express
+ #### - React
+ #### - Git
 
 ### Currently I´m working on many practice projects:
   #### Next one's ready -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
