@@ -19,9 +19,13 @@
  #### - Git
  
 ### Actualmente estoy trabajando con varios proyectos de práctica:
+  #### El siguiente está listo -->  [SoundBox](https://github.com/JuanesFosch/SoundBox)
+  
+  #### - Sitio Web tipo E-commerce: Hecha con JavaScript en Node.js, Express, MySQL, HMTL y CSS y desplegada en [Render](https://render.com/)
+  
   #### El siguiente está listo -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
   
-  #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, HMTL y CSS y desplegada en [Fly.io](https://fly.io/)
+  #### - Sistema de gestión (CRUD) en versión Web: Hecha con Python en Django, SQLite, HMTL y CSS y desplegada en [Fly.io](https://fly.io/)
 
   #### Este también está listo --> [App Películas](https://github.com/JuanesFosch/App-Peliculas)
 
@@ -56,6 +60,10 @@
  #### - Git
 
 ### Currently I´m working on many practice projects:
+  #### Next one's ready --> [SoundBox](https://github.com/JuanesFosch/SoundBox)
+  
+  #### - E-commerce type website: Made with JavaScript in Node.js, Express, MySQL, HMTL and CSS and deployed in [Render](https://render.com/)
+  
   #### Next one's ready -->  [App Odonto](https://github.com/JuanesFosch/App-Odonto)
   
   #### - Management system (CRUD) Web version: Made with Python on Django, HMTL and CSS and deployed at [Fly.io](https://fly.io/)
